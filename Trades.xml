@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trades>
+  <trade tradeType="Future" identifier="TRD000001" paymentCurrency="USD" price="32.00" quantity="150000" symbol="SXFZ3" tradeDate="20 Aug 2013"/>
+  <trade tradeType="Future" identifier="TRD000002" paymentCurrency="USD" price="31.40" quantity="12000" symbol="EDX3" tradeDate="15 Sep 2013"/>
+  <trade tradeType="Future" identifier="TRD000003" paymentCurrency="GBP" price="32.00" quantity="160000" symbol="EDX3" tradeDate="20 Aug 2013"/>
+  <trade tradeType="Future" identifier="TRD000004" paymentCurrency="GBP" price="32.00" quantity="170000" symbol="EDV3" tradeDate="20 Aug 2013"/>
+  <trade tradeType="Future" identifier="TRD000005" paymentCurrency="CAD" price="44.00" quantity="180000" symbol="SIF4P" tradeDate="20 Aug 2013"/>
+  <trade tradeType="Future" identifier="TRD000006" paymentCurrency="CAD" price="43.00" quantity="230000" symbol="EDX3" tradeDate="20 Aug 2013"/>
+  <trade tradeType="Future" identifier="TRD000007" paymentCurrency="CAD" price="46.00" quantity="250000" symbol="JGBZ3" tradeDate="20 Aug 2013"/>
+  <trade tradeType="Future" identifier="TRD000008" paymentCurrency="CAD" price="43.00" quantity="150000" symbol="LCOZ3" tradeDate="20 Aug 2013"/>
+  <trade tradeType="Future" identifier="TRD000009" paymentCurrency="CAD" price="28.00" quantity="330000" symbol="CLG4" tradeDate="20 Aug 2013"/>
+  <trade tradeType="Future" identifier="TRD000010" paymentCurrency="USD" price="27.00" quantity="440000" symbol="BAXZ3" tradeDate="20 Aug 2013"/>
+  <trade tradeType="Future" identifier="TRD000011" paymentCurrency="USD" price="22.00" quantity="20000" symbol="DJH4" tradeDate="20 Aug 2013"/>
+  <trade tradeType="Future" identifier="TRD000012" paymentCurrency="CAD" price="32.00" quantity="410000" symbol="SPH4" tradeDate="20 Aug 2013"/>  
+</trades>

@@ -1,0 +1,10 @@
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\Test.WindowsFormsApp\bin\Debug\Test.WindowsFormsApp.exe.config
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\Test.WindowsFormsApp\bin\Debug\Test.WindowsFormsApp.exe
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\Test.WindowsFormsApp\bin\Debug\Test.WindowsFormsApp.pdb
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\Test.WindowsFormsApp\obj\Debug\Test.WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\Test.WindowsFormsApp\obj\Debug\Test.WindowsFormsApp.Form1.resources
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\Test.WindowsFormsApp\obj\Debug\Test.WindowsFormsApp.Properties.Resources.resources
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\Test.WindowsFormsApp\obj\Debug\Test.WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\Test.WindowsFormsApp\obj\Debug\Test.WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\Test.WindowsFormsApp\obj\Debug\Test.WindowsFormsApp.exe
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\Test.WindowsFormsApp\obj\Debug\Test.WindowsFormsApp.pdb

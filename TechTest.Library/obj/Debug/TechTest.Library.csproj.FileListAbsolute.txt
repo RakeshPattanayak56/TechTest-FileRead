@@ -1,0 +1,11 @@
+C:\Users\prave\Downloads\CSharpTechTest\CSharpTechTest-MariyamEkiya\TechTest.Library\obj\Debug\TechTest.Library.csproj.AssemblyReference.cache
+C:\Users\prave\Downloads\CSharpTechTest\CSharpTechTest-MariyamEkiya\TechTest.Library\obj\Debug\TechTest.Library.csproj.CoreCompileInputs.cache
+C:\Users\prave\Downloads\CSharpTechTest\CSharpTechTest-MariyamEkiya\TechTest.Library\bin\Debug\TechTest.Library.dll
+C:\Users\prave\Downloads\CSharpTechTest\CSharpTechTest-MariyamEkiya\TechTest.Library\bin\Debug\TechTest.Library.pdb
+C:\Users\prave\Downloads\CSharpTechTest\CSharpTechTest-MariyamEkiya\TechTest.Library\obj\Debug\TechTest.Library.dll
+C:\Users\prave\Downloads\CSharpTechTest\CSharpTechTest-MariyamEkiya\TechTest.Library\obj\Debug\TechTest.Library.pdb
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\TechTest.Library\bin\Debug\TechTest.Library.dll
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\TechTest.Library\bin\Debug\TechTest.Library.pdb
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\TechTest.Library\obj\Debug\TechTest.Library.csproj.CoreCompileInputs.cache
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\TechTest.Library\obj\Debug\TechTest.Library.dll
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\TechTest.Library\obj\Debug\TechTest.Library.pdb

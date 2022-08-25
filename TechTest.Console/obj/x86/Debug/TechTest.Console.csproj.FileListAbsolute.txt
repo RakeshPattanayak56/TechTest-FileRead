@@ -1,0 +1,21 @@
+C:\Users\prave\Downloads\CSharpTechTest\CSharpTechTest-MariyamEkiya\TechTest.Console\obj\x86\Debug\TechTest.Console.csproj.AssemblyReference.cache
+C:\Users\prave\Downloads\CSharpTechTest\CSharpTechTest-MariyamEkiya\TechTest.Console\obj\x86\Debug\TechTest.Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\prave\Downloads\CSharpTechTest\CSharpTechTest-MariyamEkiya\TechTest.Console\obj\x86\Debug\TechTest.Console.csproj.CoreCompileInputs.cache
+C:\Users\prave\Downloads\CSharpTechTest\CSharpTechTest-MariyamEkiya\TechTest.Console\bin\Debug\TechTest.Console.exe.config
+C:\Users\prave\Downloads\CSharpTechTest\CSharpTechTest-MariyamEkiya\TechTest.Console\bin\Debug\TechTest.Console.exe
+C:\Users\prave\Downloads\CSharpTechTest\CSharpTechTest-MariyamEkiya\TechTest.Console\bin\Debug\TechTest.Console.pdb
+C:\Users\prave\Downloads\CSharpTechTest\CSharpTechTest-MariyamEkiya\TechTest.Console\bin\Debug\TechTest.Library.dll
+C:\Users\prave\Downloads\CSharpTechTest\CSharpTechTest-MariyamEkiya\TechTest.Console\bin\Debug\TechTest.Library.pdb
+C:\Users\prave\Downloads\CSharpTechTest\CSharpTechTest-MariyamEkiya\TechTest.Console\obj\x86\Debug\TechTest.Console.csproj.CopyComplete
+C:\Users\prave\Downloads\CSharpTechTest\CSharpTechTest-MariyamEkiya\TechTest.Console\obj\x86\Debug\TechTest.Console.exe
+C:\Users\prave\Downloads\CSharpTechTest\CSharpTechTest-MariyamEkiya\TechTest.Console\obj\x86\Debug\TechTest.Console.pdb
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\TechTest.Console\bin\Debug\TechTest.Console.exe.config
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\TechTest.Console\bin\Debug\TechTest.Console.exe
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\TechTest.Console\bin\Debug\TechTest.Console.pdb
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\TechTest.Console\bin\Debug\TechTest.Library.dll
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\TechTest.Console\bin\Debug\TechTest.Library.pdb
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\TechTest.Console\obj\x86\Debug\TechTest.Console.csprojAssemblyReference.cache
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\TechTest.Console\obj\x86\Debug\TechTest.Console.csproj.CoreCompileInputs.cache
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\TechTest.Console\obj\x86\Debug\TechTest.Console.csproj.CopyComplete
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\TechTest.Console\obj\x86\Debug\TechTest.Console.exe
+C:\Users\Rakesh Pattanayak\Downloads\CSharpTechTest-MariyamEkiya\CSharpTechTest-MariyamEkiya\TechTest.Console\obj\x86\Debug\TechTest.Console.pdb
